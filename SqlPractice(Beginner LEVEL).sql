@@ -204,6 +204,7 @@ SELECT
 FROM Sales.Employees
 
 
+
 --#COMBINING ALL ORDERS INTO ONE WITHOUT DUPLICATES
 SELECT   --#Orders.Archive As Source-Table
       [OrderID]
